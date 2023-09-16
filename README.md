@@ -1,6 +1,6 @@
 dwm - dynamic window manager
 ============================
-dwm is an extremely fast, small, and dynamic window manager for X.
+dwm is an extremely fast, small, and dynamic window manager for X. (not sure about this one: https://dwm.suckless.org/)
 
 These are my configuration changes with everything pre-patched using all the patches in the `/patches` directory
 
