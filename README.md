@@ -1,3 +1,8 @@
+
+**However; I recommend using a Wayland Based Window Manager like Hyprland**
+
+
+
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X. (not sure about this one: https://dwm.suckless.org/)
